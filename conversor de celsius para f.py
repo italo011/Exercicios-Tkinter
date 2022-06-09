@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter.messagebox import showerror
+from turtle import right
 
 
 root = tk.Tk()
